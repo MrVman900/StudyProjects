@@ -11,5 +11,5 @@ int main()
     for (int i = 0; i < 5; i += 0,5){
         res += x;
     }
-    cout << res << " Привет res и GitHub";
+    cout << res << " hi res and GitHub";
 }
